@@ -2,3 +2,10 @@ hello new day
 
 this is chapter three page one
 
+new text for this page, working in day 3 
+
+we are making change
+
+and we will fetch it 
+
+then we will learn how to add it our local repository
